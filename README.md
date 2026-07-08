@@ -6,7 +6,7 @@ Neural Network (ANN) instead of a conventional fixed-coefficient design.
 
 ---
 
-## Abstract
+## Introduction
 
 An ADPLL replaces the conventional analog charge-pump and voltage-controlled oscillator of a 
 traditional PLL with fully digital counterparts, enabling better portability across process 
