@@ -222,6 +222,8 @@ works.
 ---
 
 ## Repository Structure
+
+```
 ├── ml_filter_training/
 │   ├── FIR_FILTER.ipynb          # ANN training notebook (Google Colab)
 │   ├── input                     # Synthetic square-wave training signal
@@ -248,6 +250,7 @@ works.
     ├── DCO_OUTPUT.png
     ├── Freq_DIV_OUTPUT.png
     └── ADPLL_OUTPUT.png
+```
 ## How to Reproduce
 
 1. **Retrain filter coefficients:** open `ml_filter_training/FIR_FILTER.ipynb` in Google Colab, 
