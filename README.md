@@ -118,7 +118,7 @@ at each tap, and accumulated via multiply-accumulate (MAC) operations to produce
 filtered tuning word. Functionally verified in **Xilinx Vivado** using `rtl/tb.v` to confirm 
 correct tap-indexing, MAC behaviour, and overall filter response.
 
-![FIR Filter RTL Output in Vivado](waveforms/FIR_RTL_OUTPUT.png)
+![FIR Filter RTL Output in Vivado](waveforms/FIR_RTL_OUTPUT.jpeg)
 
 ---
 
